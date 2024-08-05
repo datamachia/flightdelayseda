@@ -14,5 +14,4 @@ The project is structured into four key phases:
 
 **4. Data Analysis:** Conducting detailed analysis to uncover patterns, trends and insights. 
 
-This comprehensive approach not only highlights the proficiency in **Python** and **Pandas** but also demonstrates the capability to derive meaningful insights from complex datasets.
 
